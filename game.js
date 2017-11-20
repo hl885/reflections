@@ -1,4 +1,5 @@
 123
+4
 }).keyup(function (e) {
   KEY_STATUS.keyDown = false;
   if (KEY_CODES[e.keyCode]) {
