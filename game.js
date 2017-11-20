@@ -1,9 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 123
 4
 =======
 1234
 >>>>>>> newbr
+=======
+12
+4
+>>>>>>> origin/master
 }).keyup(function (e) {
   KEY_STATUS.keyDown = false;
   if (KEY_CODES[e.keyCode]) {
