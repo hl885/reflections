@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 123
 4
+=======
+1234
+>>>>>>> newbr
 }).keyup(function (e) {
   KEY_STATUS.keyDown = false;
   if (KEY_CODES[e.keyCode]) {
